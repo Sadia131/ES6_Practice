@@ -14,5 +14,6 @@ console.log(patientName);
 let sum = 0;
 for(let i=0; i< 10; i++){
     sum = sum + 1;
-}
+} //let changeable and leak prof
 console.log(i);
+
